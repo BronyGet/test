@@ -5,3 +5,4 @@ commit test
 add line
 new branch line
 testing line update
+new line for gui
